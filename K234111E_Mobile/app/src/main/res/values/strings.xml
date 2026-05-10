@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">K234111EApp</string>
+    <string name="str_Welcome">Welcome to K234111E</string>
+    <string name="str_clickme">Click me</string>
+    <string name="str_login">Login System</string>
+    <string name="str_hint_username">Enter your username</string>
+    <string name="str_password">Password</string>
+    <string name="str_login_title">Login System</string>
+    <string name="str_username">Username</string>
+    <string name="str_hint_password">Enter your password\n</string>
+    <string name="str_exit">Exit\n</string>
+    <string name="str_welcome">WELCOME</string>
+    <string name="str_mc">MC</string>
+    <string name="str_mplus">MPLUS</string>
+    <string name="str_mminus">MMINUS</string>
+    <string name="str_ms">MS</string>
+    <string name="str_m">M</string>
+    <string name="str_mr">MR</string>
+</resources>
